@@ -1,0 +1,4 @@
+
+game title: Multiplication Abomination
+game info: Multiplication Abomination is a game where players will have exactly one minute to solve as many multiplication problems as they can. For every problem solved you get 1 point.
+game path: multgame

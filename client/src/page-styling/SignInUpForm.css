@@ -1,0 +1,105 @@
+* {
+  font-family: "Roboto";
+  margin: 0px;
+}
+
+label {
+  width: 100px;
+}
+.error {
+  color: red;
+  display: block;
+  margin-left: 13px;
+}
+
+.log-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 342px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.71);
+  row-gap: 15px;
+  border-radius: 15px;
+  background-image: url("https://freerangestock.com/sample/151126/blue-smoke-wallpaper-background-.jpg");
+  box-shadow: 0px 0px 10px 6px lightblue;
+  color: white;
+}
+
+.signinbotton {
+  margin: 0px 113px;
+}
+.botton {
+  margin: 0px 110px;
+}
+
+.user_in {
+  text-align: center;
+  padding: 6px 12px;
+  width: fit-content;
+}
+
+.inpField {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+.form-size {
+  padding: 0px 75px;
+}
+.inpField-2 {
+  width: 650px;
+  padding: 8px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+
+.signin {
+  text-align: center;
+  font-weight: bold;
+  padding: 6px 12px;
+}
+
+.attr {
+  display: flex;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.log-container-2 {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 342px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.71);
+  row-gap: 15px;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0px 0px 10px 6px lightblue;
+  color: white;
+}
+
+.log-border-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(216, 222, 236);
+  background-size: 100%;
+  margin: 0px;
+}
+
+.signin-2 {
+  text-align: center;
+  font-weight: bold;
+  padding: 6px 12px;
+  color: rgba(216, 222, 236, 0.703);
+}

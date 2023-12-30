@@ -1,0 +1,3 @@
+game Title: Worthy Words
+game info: A game where players are given 3 lives and shown a word, the player must decide if the word has been shown prior or not, if the player chooses correctly they get one point and if they choose incorrectly you lose a life.
+game path: wordgame

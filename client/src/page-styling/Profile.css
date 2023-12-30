@@ -1,0 +1,60 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.profile-container {
+  width: 800px;
+  height: 600px;
+  background-color: white;
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 6px lightblue;
+}
+
+.profileInfo {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.emailText,
+.usernameText,
+.passwordText {
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.profile-container-2 {
+  width: 800px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 6px lightblue;
+}
+
+.profile-container-3 {
+  width: 800px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 6px lightblue;
+}
